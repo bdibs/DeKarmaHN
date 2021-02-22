@@ -1,7 +1,6 @@
 # DeKarmaHN
 
-DeKarmaHN is a Chrome extension that lets you hide [Hacker News](https://news.ycombinator.com) karma points and other "
-nudges" that could subconsciously change your opinion.
+DeKarmaHN is a Chrome extension that lets you hide [Hacker News](https://news.ycombinator.com) karma points and other "nudges" that could subconsciously change your opinion.
 
 This extension currently:
 
