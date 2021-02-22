@@ -1,0 +1,7 @@
+.score {
+    display: none !important;
+}
+
+html[op=user] table table tr:nth-of-type(3) {
+    display: none !important;
+}

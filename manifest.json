@@ -1,0 +1,19 @@
+{
+  "name": "DeKarmaHN",
+  "description": "This blocks HN's karma points and other 'nudges' that could subconsciously change your opinion.",
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "js": [
+        "dekarma.js"
+      ],
+      "css": [
+        "dekarma.css"
+      ],
+      "matches": [
+        "https://news.ycombinator.com/*"
+      ]
+    }
+  ]
+}
